@@ -1,0 +1,8 @@
+- Get All STEM
+    - Sciences
+    - Health and Medical Sciences
+    - Engineerings
+    - Business
+    - Just Architecture
+    - Just Visual Arts and Education,
+- Filter out 5000 Level
