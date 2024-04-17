@@ -5,4 +5,6 @@
     - Business
     - Just Architecture
     - Just Visual Arts and Education,
-- Filter out 5000 Level
+
+- Filter out 5000 Levels
+- Filter out 9000 Levels (post graduate stuffs)
